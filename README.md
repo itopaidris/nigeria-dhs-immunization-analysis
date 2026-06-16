@@ -70,6 +70,12 @@ The project explores zero-dose and immunization dropout indicators as complement
 * Methodological Summaries
 * Supporting Documentation
 
+## Visual Resources
+
+### Immunization System Performance Overview
+
+![Nigeria DHS Immunization Analysis](infographics/zero-dose-overview-updated.png)
+
 ## Author
 
 **Nuhu Idris Itopa, MBBS, MPH**
