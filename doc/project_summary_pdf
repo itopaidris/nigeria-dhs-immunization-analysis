@@ -1,0 +1,57 @@
+Nigeria DHS Immunization Analysis
+Background
+Routine childhood immunization is one of the most effective public health interventions for preventing vaccine-preventable diseases and reducing childhood mortality. Despite substantial investments in immunization programmes, many countries continue to experience challenges related to vaccine access, service utilization, and equitable coverage. Monitoring immunization system performance requires indicators that capture both access to vaccination services and continuity of care. This project applies nationally representative survey data to examine key immunization system indicators and support evidence-informed decision-making.
+Objectives
+•	Assess immunization system performance using nationally representative survey data.
+•	Examine indicators related to vaccination access and continuity of care.
+•	Explore socioeconomic and geographic patterns in immunization outcomes.
+•	Demonstrate the application of survey-weighted analytical methods in public health research.
+•	Generate evidence to inform immunization programme planning and policy development.
+Data Sources
+This project utilizes publicly available data from the Nigeria Demographic and Health Survey (NDHS):
+•	NDHS 2013
+•	NDHS 2018
+•	NDHS 2023–24
+These surveys provide nationally representative information on population health, maternal and child health, healthcare utilization, and immunization outcomes.
+Methods
+The project employed a secondary analysis of DHS datasets using established epidemiological and statistical methods.
+Key methodological steps included:
+•	Data acquisition and preparation
+•	Variable harmonization across survey rounds
+•	Survey design specification and weighting
+•	Descriptive statistical analysis
+•	Trend analysis
+•	Multivariable regression modeling
+•	Interpretation and synthesis of findings
+All analyses accounted for sampling weights, clustering, and stratification to ensure nationally representative estimates.
+Analytical Approach
+The analytical framework focused on evaluating immunization-related indicators using survey-weighted methods.
+Analyses included:
+•	Descriptive assessment of immunization indicators
+•	Comparison of trends across survey years
+•	Assessment of socioeconomic and geographic patterns
+•	Examination of factors associated with immunization outcomes
+•	Generation of evidence relevant to programme performance and health equity
+Statistical analyses were conducted using R and appropriate survey analysis techniques for complex survey datasets.
+Skills Demonstrated
+This project demonstrates competencies in:
+•	Epidemiology
+•	Public Health Research
+•	Survey Data Analysis
+•	DHS/MICS Data Management
+•	R Programming
+•	Logistic Regression
+•	Trend Analysis
+•	Statistical Modeling
+•	Data Visualization
+•	Scientific Writing
+•	Research Reporting
+Policy Relevance
+The project demonstrates how nationally representative survey data can be used to support immunization programme evaluation, health systems strengthening, and evidence-based policymaking.
+Applications include:
+•	Monitoring immunization programme performance
+•	Identifying populations at risk of under-vaccination
+•	Informing vaccine equity initiatives
+•	Supporting maternal and child health programmes
+•	Guiding resource allocation and programme planning
+•	Strengthening data-driven decision-making in public health
