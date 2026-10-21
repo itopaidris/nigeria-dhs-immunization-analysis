@@ -1,96 +1,85 @@
 # Nigeria DHS Immunization Analysis
 
-Analysis of immunization system performance in Nigeria using Demographic and Health Survey (DHS) data from 2013, 2018, and 2023–24, with a focus on zero-dose and immunization dropout indicators, vaccine equity, and public health decision-making.
+A reproducible research pipeline for analysing childhood immunization, vaccine equity, and immunization system performance using pooled Nigeria Demographic and Health Survey (NDHS) data from 2013, 2018, and 2023–24.
 
-## Overview
+## Vision
 
-This repository showcases a public health research project examining childhood immunization and immunization system performance in Nigeria using nationally representative Demographic and Health Survey (DHS) datasets.
+To build a robust, transparent, and reusable analytical pipeline that generates high-quality evidence for immunization policy, health systems strengthening, and scientific research in Nigeria.
 
-The project explores zero-dose and immunization dropout indicators as complementary measures of vaccine access, continuity of care, and immunization programme performance. The repository provides an overview of the study objectives, analytical approach, public health relevance, and technical skills demonstrated through the project.
+## Research Pipeline
 
-## Project Objectives
+The repository supports multiple publications through a shared data and analysis workflow.
 
-* Examine patterns of childhood immunization in Nigeria.
-* Assess indicators of immunization system performance using DHS data.
-* Explore socioeconomic and geographic inequalities in vaccination outcomes.
-* Demonstrate the application of survey-weighted epidemiological methods to public health research.
-* Generate evidence to support immunization policy and programme improvement.
+Completed / In Progress
 
-## Data Sources
+1. Zero-Dose Prevalence and Immunization Dropout as Complementary Indicators of Immunization System Performance in Nigeria: Pooled Analysis of the 2013, 2018, and 2023–24 Nigeria Demographic and Health Surveys
+Status: Submitted to Pan African Medical Journal
 
-* Nigeria Demographic and Health Survey (NDHS) 2013
-* Nigeria Demographic and Health Survey (NDHS) 2018
-* Nigeria Demographic and Health Survey (NDHS) 2023–24
+2. Maternal–Child Healthcare Continuity and Zero-Dose Status Among Children in Nigeria: A Pooled DHS Analysis, 2013–2024
+Status: Under Peer Review (BMC Public Health)
+
+3. Subnational Classification of Immunization System Performance in Nigeria Using Complementary Zero-Dose and Immunization Dropout Indicators
+Status: In Preparation
+
+Future Publications
+
+• Vaccine equity and socioeconomic inequalities
+• Geospatial hotspot analysis
+• Rural–urban disparities
+• Missed opportunities for vaccination
+• Maternal determinants of immunization
+• State-level immunization performance profiling
+• Trend and decomposition analyses
+
+## Analytical Pipeline
+
+Raw DHS Data
+        ↓
+Data Verification
+        ↓
+Data Cleaning
+        ↓
+Survey Harmonization
+        ↓
+Outcome Variable Construction
+        ↓
+Survey-Weighted Analysis
+        ↓
+Regression Modelling
+        ↓
+Tables and Figures
+        ↓
+Scientific Publications
+
+## Repository Structure
+
+raw_data/
+processed_data/
+scripts/
+outputs/
+tables/
+figures/
+docs/
+publications/
 
 ## Methods
 
-* Secondary analysis of nationally representative survey data
-* Data harmonization across multiple survey rounds
-* Survey-weighted descriptive analysis
-* Trend analysis
-* Multivariable logistic regression
-* Equity and inequality assessment
-* Data visualization and interpretation using R
-
-## Skills Demonstrated
-
-* Epidemiology
-* Immunization Research
-* Public Health Research
-* Survey Data Analysis
-* Logistic Regression
-* Trend Analysis
-* R Programming
-* Statistical Analysis
-* Data Visualization
-* Scientific Writing
-
-## Tools
-
-* R
-* RStudio
-* DHS Data
-* Survey Package
-* Data Visualization Libraries
+• DHS data harmonization
+• Survey-weighted descriptive analysis
+• Logistic regression
+• Trend analysis
+• Equity analysis
+• Data visualization
+• Reproducible research workflow using R
 
 ## Applications
 
-* Immunization Programme Evaluation
-* Vaccine Equity Assessment
-* Monitoring and Evaluation
-* Maternal and Child Health Research
-* Health Systems Strengthening
-* Evidence-Based Policy Development
-
-## Repository Contents
-
-* Project Overview
-* Research Portfolio Materials
-* Data Visualizations and Infographics
-* Methodological Summaries
-* Supporting Documentation
-
-## Visual Resources
-
-### Immunization System Performance Overview
-
-![Nigeria DHS Immunization Analysis](infographics/zero-dose-overview-updated.png)
-
-## Author
-
-**Nuhu Idris Itopa, MBBS, MPH**
-
-Public Health Researcher | Epidemiologist | Data Analyst
-
-### Areas of Interest
-
-* Immunization and Vaccine Equity
-* Maternal and Child Health
-* Epidemiology
-* DHS/MICS Analysis
-* Public Health Research
-* Health Systems Strengthening
+• Immunization programme evaluation
+• Vaccine equity assessment
+• Health systems performance measurement
+• Maternal and child health research
+• Evidence-informed policymaking
 
 ## Disclaimer
 
-This repository serves as a professional portfolio and project showcase. It summarizes the objectives, methodology, and analytical approaches used in the project and does not reproduce unpublished manuscript content, results, tables, figures, or materials currently under peer review.
+This repository contains reproducible analytical workflows and supporting materials. Individual manuscripts, journal-specific outputs, and unpublished findings are maintained separately until publication.
